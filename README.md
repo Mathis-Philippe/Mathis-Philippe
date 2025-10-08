@@ -13,7 +13,7 @@ Actuellement, je suis en **alternance chez ETN**, où je travaille sur :
 - **En apprentissage :**  
   React Native, Node.js
 
-## 📫 Me contacter
+## Me contacter
 
 - **LinkedIn :** [Mathis Philippe](https://www.linkedin.com/in/mathis-philippe/)  
 - **Email :** [mathis.philippe2005@gmail.com](mailto:mathis.philippe2005@gmail.com)
