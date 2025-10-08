@@ -1,4 +1,4 @@
-# Salut, moi c’est Mathis
+# Salut, moi c’est Mathis !
 
 Je suis **étudiant en développement web**.
 
