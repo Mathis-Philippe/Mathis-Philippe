@@ -1,16 +1,23 @@
-## Hi there 👋
+# Salut, moi c’est Mathis
 
-<!--
-**Mathis-Philippe/Mathis-Philippe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis **étudiant en développement web**.
 
-Here are some ideas to get you started:
+Actuellement, je suis en **alternance chez ETN**, où je travaille sur :
+- Le **site internet** de l’entreprise  
+- Un **projet d’application mobile** (encore en développement)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences
+
+- **Langages & technologies principales :**  
+  JavaScript / TypeScript, HTML, CSS, React, PHP  
+- **En apprentissage :**  
+  React Native, Node.js
+
+## 📫 Me contacter
+
+- **LinkedIn :** [Mathis Philippe](https://www.linkedin.com/in/mathis-philippe/)  
+- **Email :** [mathis.philippe2005@gmail.com](mailto:mathis.philippe2005@gmail.com)
+
+---
+
+Merci d’avoir visité mon profil !
